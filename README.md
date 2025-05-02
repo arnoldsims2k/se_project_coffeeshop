@@ -13,6 +13,7 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
+HEAD
 Implement an advanced online ordering system that features:
 
 - Customizable drink options
@@ -20,3 +21,6 @@ Implement an advanced online ordering system that features:
 - Integrated digital tipping
 
 This would streamline the customer experience by reducing wait times and allowing for personalized orders.
+
+Add your ideas here :)
+04a8f19be3e690123ba9b7d6f28000bed4b36022

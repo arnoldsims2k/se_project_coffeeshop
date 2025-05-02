@@ -1,6 +1,9 @@
 .DS_Store
+ HEAD
 .vscode/
 .idea/
 node_modules/
 *.log
 
+
+ 04a8f19be3e690123ba9b7d6f28000bed4b36022
