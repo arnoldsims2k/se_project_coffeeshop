@@ -1,6 +1,1 @@
-node_modules
-dist
-build
-coverage
-*.min.js
-
+vendor/normalize.css
